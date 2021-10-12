@@ -31,9 +31,6 @@ const oktaAuth = new OktaAuth({
   });
   //this OktaAuth instance is created using the Client and Issuer ID found in okta dev panel. redirectURI refers to where users go after logging in
 
-  //blogger api key: AIzaSyCM8zAGjRANubC4cg0QzN8KyqI2lcVrB9g
-  //okta pw: X3"A/yh}_K`eNW"`
-
 const App = (): JSX.Element => {
     const [gluteRecruit, setGluteRecruit] = useState(false);
     const [drivenMen, setDrivenMen] = useState(false);
