@@ -1,0 +1,25 @@
+.newsletterRectangle {
+    /* height: 20vh;
+    margin: 20vh 0 0; */
+    margin-top: 5vh;
+    text-align: center;
+    align-items: center;
+
+}
+
+.newsletterFormbox {
+  width: 100% !important;
+  height: 5vh !important;
+  padding: 0 0 0 0 !important;
+  align-items: center;
+  text-align: center;
+}
+
+.submitButton {
+  height: 5vh !important;
+  width: 100% !important;
+  padding: 0 0 0 0 !important;
+  color: #FFFEFE;
+  align-items: center;
+  text-align: center;
+}

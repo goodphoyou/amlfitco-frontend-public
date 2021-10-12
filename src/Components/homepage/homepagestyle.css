@@ -1,0 +1,80 @@
+.title{
+  font-family: BebasNeue;
+  font-size: 8vw;
+}
+
+.mainPhoto{
+  position: relative;
+}
+
+.photoText{
+  text-align: right;
+  padding-left: 50vw;
+  padding-right: 4vw;
+  position: absolute;
+  color: #FFFEFE;
+  font-size: 2vw;
+  font-family: Montserrat;
+}
+
+.heading{
+  font-family: BebasNeue;
+  font-size: 3vw;
+}
+
+.body{
+  font-family: Roboto;
+}
+
+
+@media only screen and (max-width: 600px) {
+  /* for 600px wide or less */
+  .body {
+    font-size: 3vw;
+  }
+
+  .heading {
+    font-size: 2rem;
+  }
+
+  .photoText{
+    margin-top: 10vh;
+  }
+
+  .photoText1{
+    top: -2vh;
+  }
+
+  .photoText2{
+    top: 6vh;
+  }
+
+  .photoText3{
+    top: 12vh;
+  }
+
+}
+
+@media only screen and (min-width: 600px) {
+  /* bigger than 600px */
+  .body {
+    font-size: 1.2vw;
+  }
+
+  .photoText {
+    margin-top: 20vh;
+  }
+
+  .photoText1{
+    top: -2vh;
+  }
+
+  .photoText2{
+    top: 12vh;
+  }
+
+  .photoText3{
+    top: 25vh;
+  }
+}
+

@@ -1,0 +1,32 @@
+.enterButton {
+    width: 30vw !important;
+    height: 10vh !important;
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+    font-family: BebasNeue;
+    font-size: 3vh;
+}
+
+.splashText{
+    font-family: BebasNeue;
+    font-size: 3vw;
+  }
+
+.splashPhoto{
+    bottom: 0;
+}
+
+.splashContainer{
+    margin-top: 15vh;
+}
+
+@media only screen and (max-width: 600px) {
+    /* for 600px wide or less */
+}
+
+@media only screen and (min-width: 1200px) {
+    /* bigger than 600px */
+    .splashPhoto{
+        margin-top: 35vh;
+    }
+}

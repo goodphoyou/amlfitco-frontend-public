@@ -1,0 +1,30 @@
+.contentbody {
+    color: #F8F8FF;
+    padding-left: 15vw;
+    padding-right: 15vw;
+}
+
+.contentHeader {
+    color:  #FE1401
+}
+
+.courseNavButton {
+    background-color: #66717e !important;
+}
+
+.courseNavLink {
+    color: #111111 !important;
+    font-family: roboto ;
+}
+
+.prevButton {
+    background-color: #66717e !important;
+}
+
+.directionalLink{
+    color: #FFFEFE
+}
+
+/* #id {
+
+} */

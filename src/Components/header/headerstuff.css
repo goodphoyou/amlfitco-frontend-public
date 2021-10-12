@@ -1,0 +1,31 @@
+.navbar {
+  width: 100%;
+  position: fixed;
+  font-family: BebasNeue !important;
+  font-size: 16px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  top: 0;
+  opacity: .75;
+  transition: top 0.6s;
+  text-align: right;
+}
+
+.navbutton {
+  font-size: 2vw;
+}
+
+.inactive{
+ color: #FE1401 !important;
+}
+
+.active{
+  color: #FFFEFE !important;
+}
+
+.navbar--hidden {
+  top: -50vw;
+}

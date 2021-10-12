@@ -1,0 +1,35 @@
+.linkTreeButton {
+    color: #FFFEFE !important;
+    background-color: transparent;
+    border-color: #FFFEFE !important;
+    height: 25vh;
+    width: 80vw;
+    align-items: center;
+    text-align: center;
+    border-style: solid;
+    border-radius: 2vw;
+    margin-top: 1vh;
+    margin-bottom: 1vh;
+    margin-left: 0;
+}
+
+.linkTreeMainText{
+    font-size: 4vw;
+    font-family: Montserrat;
+    text-align: center !important;
+
+}
+
+.linkTreeSubText{
+    font-size: 2vw;
+    font-style: italic;
+    text-align: center !important;
+    
+}
+
+.linkTreeLogo {
+    align-items: center;
+    text-align: center;
+    color: #FFFEFE !important;
+    padding-bottom: 3vh;
+}

@@ -1,0 +1,3 @@
+Mounir Lazzouni is an expert at helping men gain 20 lbs of muscle in 6 months while losing all the fat they need to lose as a result, AND ask more of themselves in every other area of their life. 
+
+If you're looking to not only better yourself physically, but also achieve your goals inside of every other aspect of your life, Coach Mounir will raise your standards and empower you to achieve what you never thought was possible before.

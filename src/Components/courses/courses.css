@@ -1,0 +1,19 @@
+.courseThumbnail {
+    width: 100%;
+}
+
+.courseHomeHeader{
+    font-family: Roboto;
+    font-size: 5vw;
+    border-bottom-color: #FFFEFE;
+    border-bottom-width: .5vh;
+    border-bottom-style: solid;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    margin-bottom: 2vh;
+    align-items: center;
+    text-align: center;
+}
+
+
+

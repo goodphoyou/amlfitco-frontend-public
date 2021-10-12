@@ -1,0 +1,66 @@
+.App {
+  text-align: center;
+  outline-color: #FE1401;
+  /* background-color: #1c2d4a; */
+  width: 100%;
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
+  overflow-x: hidden; 
+  color: white;
+  /* font-family: Archivo; */
+  font-weight: bold;
+}
+
+.title{
+  font-family: BebasNeue;
+  font-size: 8vw;
+}
+
+.redText {
+  color:  #FE1401 !important;
+}
+
+.redBackground {
+  background-color: #FE1401 !important;
+}
+
+.whiteText {
+  color: #FFFEFE !important
+}
+
+.whiteBackground {
+  background-color: #FFFEFE !important
+}
+
+.silverText {
+  color: #66717E !important;
+}
+
+.silverBackground {
+  background-color: #66717E !important;
+}
+
+.blackText {
+  color: #111111 !important
+}
+
+.blackBackground {
+  background-color: #111111 !important;
+}
+
+.goldText { 
+  color: #AF9B46 !important
+}
+
+.goldBackground{
+  background-color: #AF9B46 !important;
+}
+
+.pinkText {
+  color: #ff0076 !important;
+}
+
+.pinkBackground {
+  background-color: #ff0076 !important
+}
